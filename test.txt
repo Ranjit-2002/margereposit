@@ -1,1 +1,1 @@
-city :name kallakkurichi
+city :name kallakkurichi,bangalore
